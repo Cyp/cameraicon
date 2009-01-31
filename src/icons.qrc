@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>cameraon.svg</file>
+        <file>cameraon2.svg</file>
+        <file>cameraon3.svg</file>
+        <file>cameraonp.svg</file>
+        <file>cameraoff.svg</file>
+    </qresource>
+</RCC>
